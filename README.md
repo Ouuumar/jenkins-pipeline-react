@@ -1,2 +1,17 @@
-# jenkins-pipeline-react
-Jenkins pipeline, to run and build a Docker image for an inital react app
+# Jenkins pipeline for dockerized react
+
+<br>
+
+## How tu run the projet ?
+
+<br>
+
+Open a CMD as admin, cd to the project location and :
+
+- docker-compose up
+
+<br>
+
+## Do not forget to :
+
+- docker-compose down
